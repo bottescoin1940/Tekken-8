@@ -231,4 +231,4 @@ Tekken 8 is available as a full free version, including all features and updates
 Download **Tekken 8** now and dive into the ultimate fighting experience!
 
 ---
-**Last updated:** 2026-09-20 14:28:11 UTC
+**Last updated:** 2026-09-20 17:55:12 UTC
